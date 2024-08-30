@@ -1,0 +1,13 @@
+name = "Healing Pretty Good [FABRIC]"
+filename = "healpgood-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fb2f068a2e6f5e2b202588687d777d90547b1b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609012
+project-id = 948177

@@ -630,13 +630,13 @@ hash = "545c9749e134e505f86a48e9f9e256417b7b324449a3095475657c46a6511667"
 metafile = true
 
 [[files]]
-file = "mods/clifftree-mod.pw.toml"
-hash = "5203b17f25a9d42c444552b338e26484b7c0a2dc5f221543314dbc8a6305a91f"
+file = "mods/cloth-config.pw.toml"
+hash = "3940277b51e7eb2aa8509e1e8309d3cd4f3e9501fa27a8332c5c1a9a6727a0e3"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "3940277b51e7eb2aa8509e1e8309d3cd4f3e9501fa27a8332c5c1a9a6727a0e3"
+file = "mods/cobblegen.pw.toml"
+hash = "afcc4dc392cdcf98b7840031884c4723e10defb8a1ed2e253093700faa202449"
 metafile = true
 
 [[files]]
@@ -700,6 +700,11 @@ hash = "c90c7450fbe45665441c8698bb351b842759e3a2410590aabb9e6737971203cc"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "0f6889e1efe4f7c64e48794df0a898809ec0a40807f72b07049366445503e09e"
+metafile = true
+
+[[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
 hash = "4188799fbf294e7af389e7967fdaed58f7f407c761af193613b627d880714023"
 metafile = true
@@ -752,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "e69e9a3c81158a326377a7cc13b53beeb18242febd0ed5bcf724c3e9646faa49"
+metafile = true
+
+[[files]]
+file = "mods/healing-pretty-good.pw.toml"
+hash = "6f59c24e55eafd6896cad0d76c453766ba401976b90eef586752b2ffe3f460fc"
 metafile = true
 
 [[files]]
@@ -819,8 +829,18 @@ hash = "ea63dae00ada79d33937614aaf75dbeac382039a2d390d9ea29edbc672d854f8"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bf15b26673e3ef760cb92e3ec7960e10d3dc6fde434daa9326cb96d084b70a36"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "5c6b5cb9b3a037ed00b47ce0408158bddaa20d576d3d7becb92ddaa03240162c"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals-decorations.pw.toml"
+hash = "5a1bc5f5395754341a0f3d8c53e4529c6de137c9fd743ca962e4da52bfcd2c0a"
 metafile = true
 
 [[files]]
@@ -894,6 +914,11 @@ hash = "f44e47fcf6313654425750296cb87294f1f5d87c9b51424c9ee53315ebcb818a"
 metafile = true
 
 [[files]]
+file = "mods/skeletal-remains.pw.toml"
+hash = "7d9cf665d93075685939f17b0590bed5ae130474be4fd95702e86a36da8d659b"
+metafile = true
+
+[[files]]
 file = "mods/sketch.pw.toml"
 hash = "ec1ce60620145cf62d9306e5998850ca82039368b3824a993c537bad88008aa2"
 metafile = true
@@ -939,11 +964,6 @@ hash = "e423215f0272c386d8c2c184746e683c5120c20e370faa8725e3b8bf7d0eef5c"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "9103c88771edce6db22927dbfedcc7f786239295a963bac106acad57756a0fa3"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "c4ec0beef2500c6330b9662ea72bcaa6b4583ad2fef64f17a4dedaf0b23b742d"
 metafile = true
@@ -969,6 +989,11 @@ hash = "3f435aa0d3439bd76c66b2bc3a61a90d5e3048ab83c022009248f54fa84247ca"
 metafile = true
 
 [[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "2992cf0e7c6e970c0d5e835d71630db517f4d6c77cf29453c7b292965ce627f1"
+metafile = true
+
+[[files]]
 file = "mods/voicechat-discord-fabric-3.0.4.jar"
 hash = "37206c43e6075cd1b43c6d9db9f35b0257433de748a2eebffd586290d09cde84"
 
@@ -985,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "fd883e6a652b025d18bdd19ba7f82e4b0231e43019b83694a1e659dda94a9cda"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "1f2c31ae633e34b7139edfc4057b1f2c0ff233c4e3c39c58d93d407c63b84933"
 metafile = true
 
 [[files]]
