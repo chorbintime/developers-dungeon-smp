@@ -1,0 +1,13 @@
+name = "Iris/Oculus & GeckoLib Compat"
+filename = "GeckoLibIrisCompat-Fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb8d7212d88eea2848cc1a5175c3bea4d3b8a30f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5015554
+project-id = 959388

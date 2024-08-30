@@ -1,0 +1,13 @@
+name = "Cliff under a Tree (Clifftree) - Forge/Fabric/Quilt"
+filename = "clifftree-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0202541388f2f590b7ff5853262fe52cebee67e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5645925
+project-id = 1048226

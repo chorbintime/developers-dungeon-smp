@@ -1,0 +1,10 @@
+{
+  "override_vanilla_animations": {
+    "armadillo": true,
+    "bat": true,
+    "camel": true,
+    "frog": true,
+    "sniffer": true,
+    "warden": true
+  }
+}

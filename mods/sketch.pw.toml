@@ -1,0 +1,13 @@
+name = "Sketch"
+filename = "sketch-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed307222ee0c38b33426b9fe5b2bddd9268cd876"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609334
+project-id = 1008273
