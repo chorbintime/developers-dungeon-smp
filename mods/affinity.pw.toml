@@ -1,0 +1,13 @@
+name = "Affinity"
+filename = "affinity-0.1.2+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bfb567bc8313ca95f481cc74c195902349037e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5690088
+project-id = 938918

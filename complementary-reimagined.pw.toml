@@ -1,6 +1,6 @@
 name = "Complementary Shaders - Reimagined"
 filename = "ComplementaryReimagined_r5.2.2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
