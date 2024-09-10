@@ -186,6 +186,10 @@ file = "config/chunksending.json"
 hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
 
 [[files]]
+file = "config/cobblegen.json5"
+hash = "a1c1bc19374d40eeea2dbc6c6f7d46482641e5996e02b544196f5d2d5886bd38"
+
+[[files]]
 file = "config/connectivity.json"
 hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
