@@ -848,6 +848,11 @@ hash = "39b934e8092db92e69ad06d387aa1f296e0abd0b5e28823e73c5157ae5f93613"
 metafile = true
 
 [[files]]
+file = "mods/lavender-api.pw.toml"
+hash = "208ece8aca4bb6636f5a073a1a2e4aac0bacd35833e8640b8a65936d6c121234"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "4f94bc0cd05ab8a80e386bb01a6487b86f670ef75d710d8426f7f6b123bcd572"
 metafile = true
@@ -923,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "5523111bd895284daf9e2adf2d511b39cf2e7f83b4753a5070c2a599f9999354"
+hash = "4986ecbe3d1aea9216808004ce3abd93af7c191142dfe06561d0a72dc1e0f770"
 metafile = true
 
 [[files]]
