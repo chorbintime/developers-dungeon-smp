@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "fb231dd014eba43dd0c4175bcf4c011c9f3c4da8820cbc946d81cef0a3c9342a"
+hash = "d48a3aea5ced25deda602dd9bc4538c488c91ba5b06032a78018812e06d6d3ee"
 
 [[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
