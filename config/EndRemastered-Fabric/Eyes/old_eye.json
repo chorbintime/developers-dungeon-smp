@@ -1,8 +1,6 @@
 {
   "id": "old_eye",
   "rarity": "common",
-  "loot_to_inject_id": "endrem:minecraft/chests/desert_pyramid",
-  "loot_tables_id": [
-    "minecraft:chests/desert_pyramid"
-  ]
+  "loot_to_inject_id": "minecraft:empty",
+  "loot_tables_id": []
 }

@@ -1,13 +1,13 @@
 name = "Verdance"
-filename = "verdance-1.21.1-1.0.1.jar"
+filename = "verdance-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "117d7051358ff2fa9d90471a1e0638f703be427a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/do7sswfC/versions/3C6xcTw9/verdance-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "087ddb2fc10b9dfb131983445fb4d91d4dea1154dba1b01090bde7de2665e8b42d7b0cf08d3cc060455a6ca4a33e7fb8ea77123d40bc79ff1372324e48713ac7"
 
 [update]
-[update.curseforge]
-file-id = 5609360
-project-id = 1065190
+[update.modrinth]
+mod-id = "do7sswfC"
+version = "3C6xcTw9"

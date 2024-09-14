@@ -1,13 +1,13 @@
-name = "Small Ships [Fabric & Forge]"
+name = "Small Ships"
 filename = "smallships-fabric-1.21.1-2.0.0-b1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ee3dafb75737f5f5dea5945d1d004f7bb3ac016d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rGWEHQrP/versions/YKGJLvID/smallships-fabric-1.21.1-2.0.0-b1.5.jar"
+hash-format = "sha512"
+hash = "b517922c748339a8913d64d7b98e567a9adfb63bdeed5afffcc093473643ccf5d8015e36b47e76a6983aed075dce7510398ce565c43d052b1992ad1391495d11"
 
 [update]
-[update.curseforge]
-file-id = 5613202
-project-id = 450659
+[update.modrinth]
+mod-id = "rGWEHQrP"
+version = "YKGJLvID"

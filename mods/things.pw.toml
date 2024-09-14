@@ -1,0 +1,13 @@
+name = "Things"
+filename = "things-0.4.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VzAGdu9D/versions/C9vVXLgu/things-0.4.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "4aed06e275cb4f2614cdc687184ad40e12bb0d658a40fb1c0d4ca284d53de76827f7f0c56a53be5bf3ee7c1370667d98811441db2bf7ae06ab42fe41198a8bac"
+
+[update]
+[update.modrinth]
+mod-id = "VzAGdu9D"
+version = "C9vVXLgu"

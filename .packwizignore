@@ -1,1 +1,6 @@
 *.zip
+*.mrpack
+*.tar.gz
+server
+install
+packwiz-installer.jar

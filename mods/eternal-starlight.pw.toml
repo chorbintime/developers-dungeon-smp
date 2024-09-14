@@ -3,11 +3,11 @@ filename = "eternalstarlight-0.1.13+1.21.1+fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "22f2327470747518e9cfb8f3ec78a69d24ca281c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XvcfUGfB/versions/RdKQdWOn/eternalstarlight-0.1.13%2B1.21.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "022f352365fd0d4f11ac9f3ca1e488c6d4eee9c12894cde3cb1ef5f06a88ca6869e551b34781d2a754654138352c04a97cd1fdec3b239a20f2bb4af72d167fde"
 
 [update]
-[update.curseforge]
-file-id = 5703308
-project-id = 1080592
+[update.modrinth]
+mod-id = "XvcfUGfB"
+version = "RdKQdWOn"

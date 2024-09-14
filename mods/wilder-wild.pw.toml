@@ -1,13 +1,13 @@
-name = "Wilder Wild [Fabric]"
-filename = "WilderWild-2.4.8-mc1.21.jar"
+name = "Wilder Wild"
+filename = "WilderWild-2.4.16-mc1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "95edc21bfe7bdb60311b49c57824f5d444a83c76"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/eOFA8Wtx/WilderWild-2.4.16-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "3b9a288ffb69b174e1901423348bb83455e15c7e50dcba227bc076a08594fef6e9831153678617e39e2b4dd3264d38ba6d2a68b61b5c34a127201af9da15d056"
 
 [update]
-[update.curseforge]
-file-id = 5579893
-project-id = 648511
+[update.modrinth]
+mod-id = "AtHRJSUW"
+version = "eOFA8Wtx"
