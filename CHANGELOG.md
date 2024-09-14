@@ -13,7 +13,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bisect Mod
 - TerraBlender
 - Things
-- Traveler's Backpack
 - Nature's Spirit
 - Lavender
 - Controlling
@@ -26,6 +25,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Yung's API
 - Sodium Extra
 - Lootr Retextured
+- Athena CTM
+- Cliftree
+- Construction Wand Fabric
+- Librarians Balance
+- OriTech
 
 ## Updated Mods
 
