@@ -6,8 +6,6 @@
 	"client_shrieker": true,
 	// Only applies if Sodium is installed, otherwise ignores this option.
 	"client_sodium": true,
-	// Only applies if Indium is installed, otherwise ignores this option.
-	"client_indium": true,
 	"client_warden": true,
 	"client_wind": true,
 	"block_beacon": true,

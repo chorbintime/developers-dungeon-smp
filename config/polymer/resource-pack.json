@@ -16,5 +16,7 @@
     "world/resources.zip"
   ],
   "_c7": "Path used for creation of default resourcepack!",
-  "resource_pack_location": "polymer/resource_pack.zip"
+  "resource_pack_location": "polymer/resource_pack.zip",
+  "_c8": "Prevents selected paths from being added to resource pack, if they start with provided text.",
+  "prevent_path_with": []
 }
