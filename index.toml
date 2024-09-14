@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "950bf463982e714f57eecde7f732cd94a880639c61b2b2f4a5ee2f5d999c574e"
+hash = "5b5e87915aae2081830ee070e89c4aaa29f4b22c78ca93605616dd2ff27d023c"
 
 [[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
@@ -637,10 +637,6 @@ metafile = true
 file = "mods/accessories.pw.toml"
 hash = "abe2ff3e470d80262b151d3914f230213df14ae672aa093b2d89275073d3e0b7"
 metafile = true
-
-[[files]]
-file = "mods/affinity-0.1.3-pre.420+1.21.jar"
-hash = "de93eaf13d929f11ff28446408206743297fd346a39f8abbea95d6c0c35c162f"
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
