@@ -19,6 +19,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Controlling
 - Searchables
 - Sodium Extras
+- Lootr
+- ModMenu
+- Placeholder API
+- Paxi
+- Yung's API
+- Sodium Extra
 
 ## Updated Mods
 

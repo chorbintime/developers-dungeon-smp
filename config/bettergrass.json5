@@ -1,7 +1,7 @@
 {
 	// General
 	// OFF/FAST/FANCY (default: FANCY)
-	betterGrassMode: "FANCY",
+	betterGrassMode: "OFF",
 	// (default: true)
 	snowy: true,
 	// 

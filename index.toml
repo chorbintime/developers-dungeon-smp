@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "88832a41f69622aab8c5650e3087b289d9ee7f57717d11d8b3c28910e586dffe"
+hash = "d26474a8cc78cf10a462af1d8d5f33d3ae3ca7aa46661e0420f2962286e9400a"
 
 [[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
@@ -162,7 +162,7 @@ hash = "3e3a1894308385a703a228988facbc2ecf77da903866b362f7b58f972635ad59"
 
 [[files]]
 file = "config/bettergrass.json5"
-hash = "5a43992e3b81579165932463f96d3d58255ec123eeb846ba8db381893690804f"
+hash = "f8d5a5db14f5375c38b159dbba845fe9d5502ac65641272c0ed0a3959b36b989"
 
 [[files]]
 file = "config/biolith/general.json"
@@ -214,7 +214,7 @@ hash = "fcd9e3d241238e811010c37d12da612546f05ff457d3c4cfb5b51dae37801464"
 
 [[files]]
 file = "config/emi.css"
-hash = "87394f3562a7f0f9cfa6f24b1be9c4e1d5d8f335cbeaffcb7ccfa3779194d87a"
+hash = "8a7c8736f6cafdbe881c4f31a37ccb70055fd9aa0f2fca2801510a73872a96ed"
 
 [[files]]
 file = "config/energizedpower/client.conf"
@@ -987,6 +987,11 @@ hash = "ee8611564ef69039b52978afe941bd396b6b34964a680bf8b4f9f9c80c8ceeea"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "e6bc6abb433ee7d248dc1db9c62d58076dda7c003365c4ca60de2c8b197537f5"
+metafile = true
+
+[[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "8b6513249fa5416326726f67c4312e44df08576d5710a7d7a08ecae3a782c35c"
 metafile = true
@@ -1004,6 +1009,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1a2df3deb817467f5ecd0e015f863177da2406fe562ab257059ff2a401919b47"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a3753e729d72f1f51022380efd645a205d50b23f69e435385efbe1849e8cda7f"
 metafile = true
 
 [[files]]
@@ -1049,6 +1059,16 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "485be4ec23a287378b2c0826237dcab1b37b68f41b9020c614e277748417b830"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "f1de8e3ae7a18a953c3ededf3b6ef799b8e097015d4f7d785a7f2ee0bdd9fb93"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
@@ -1119,6 +1139,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "43f3ec75de91c336db90d1dab5297c596691b0e2bed1cd9e89995f3c0704416c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4dc661e34bbc9ba6182b1f18bcb7fb88b6c6ffb3c3aff8e8f6c806b797d982c3"
 metafile = true
 
 [[files]]
@@ -1228,6 +1253,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "ca4306853c6033d1a8b4c54043581e28f266d0f30a624546487c45f6d6c829cc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "8ee38d66010c58e3709c3479951544ad00ad753506368e67d62874bdd473b52b"
 metafile = true
 
 [[files]]

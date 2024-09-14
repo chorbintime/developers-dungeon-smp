@@ -83,7 +83,7 @@
 	 * Whether to have the search bar in the center of the screen, instead of to the
 	 * side.
 	 */
-	center-search-bar: true;
+	center-search-bar: false;
 
 	/**
 	 * Which sidebar type to switch to when searching.
@@ -162,7 +162,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 100;
+	left-sidebar-size: 18, 100;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -197,7 +197,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 18, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
