@@ -16,6 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Traveler's Backpack
 - Nature's Spirit
 - Lavender
+- Controlling
+- Searchables
+- Sodium Extras
 
 ## Updated Mods
 

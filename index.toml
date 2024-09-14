@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "8539d787dfeeb051a40bac2d740122cdcc17f0425ec6f46777d9fd823a0ba85e"
+hash = "88832a41f69622aab8c5650e3087b289d9ee7f57717d11d8b3c28910e586dffe"
 
 [[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
@@ -749,6 +749,11 @@ hash = "444450a8f9c373ebed69a578c2acbbcdddc88676625017bfbfee4a9c00812b7c"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "b7739c0f39d8956f68c36520482594f72081d9e9ded62455c1cb0222aab53302"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "0b11fe6fbaea09d1fb7e41df17e02e3520fe211357313b9010e51b8c9dcdb7ff"
 metafile = true
@@ -1087,6 +1092,11 @@ hash = "05a36985d384f1dbfba18069c2b17e6170ebea05cfeab65e211aab951dd9679d"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "9f9cd9329af814f3776bf4a544a060ff47397eec61f808f4148913ecddc266c0"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2c8f367d6824a639f1d76775456042bb6460fbe6bdb0ae084485323bc885c66b"
 metafile = true
@@ -1109,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "43f3ec75de91c336db90d1dab5297c596691b0e2bed1cd9e89995f3c0704416c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "d3a9141748d2cf22a0b3d45e27a637074d7e58197055f1e9a97d1ad96f79140f"
 metafile = true
 
 [[files]]
@@ -1214,6 +1229,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "ca4306853c6033d1a8b4c54043581e28f266d0f30a624546487c45f6d6c829cc"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c7c5461b91a87fe11ef9a2600e97599fece6cd8d40dbcef950f54fc52b14469c"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
