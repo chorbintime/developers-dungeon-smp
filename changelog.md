@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Paxi
 - Yung's API
 - Sodium Extra
+- Lootr Retextured
 
 ## Updated Mods
 
@@ -37,6 +38,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Removed Mods
 
 - Affinity
+
+## Other Changes
+
+- Removed my eyes (:eyes:)
 
 ## [v0.4] - 2024-09-13
 

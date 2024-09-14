@@ -1,0 +1,13 @@
+name = "Lootr Retextured"
+filename = "Lootr Retextured.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa1afe65bd8a9e3b21dee77903cc6a47ddcf0ade"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5505022
+project-id = 1057910
