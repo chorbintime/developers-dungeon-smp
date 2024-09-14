@@ -1,11 +1,11 @@
 name = "Developers Dungeon SMP"
-version = "0.4.1"
+version = "0.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c9287045f8e38923989fa0f4a15abb9e0c412f69cfd5e2e497a175768fbd6952"
+hash = "8177c67b57cc9e7bc82a8be881efab2cd695bcfe20a56a1e08abfad35ce69718"
 
 [versions]
 fabric = "0.16.3"

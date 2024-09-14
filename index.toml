@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d48a3aea5ced25deda602dd9bc4538c488c91ba5b06032a78018812e06d6d3ee"
+hash = "e48bbbe5d446182bc78d9cf6b0132346c90604447eeb238d8679f795f0e4c5ee"
 
 [[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
@@ -563,13 +563,13 @@ hash = "abe2ff3e470d80262b151d3914f230213df14ae672aa093b2d89275073d3e0b7"
 metafile = true
 
 [[files]]
-file = "mods/affinity.pw.toml"
-hash = "c0ec83748646671e19395521b76c346e0565673ef2278ab9a7e53f92fb87c770"
+file = "mods/alloy-forgery.pw.toml"
+hash = "ba8e2c966caf90b1c590ebb3af177a5e704411598f6cc93be10deecb9797b283"
 metafile = true
 
 [[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "ba8e2c966caf90b1c590ebb3af177a5e704411598f6cc93be10deecb9797b283"
+file = "mods/almost-unified.pw.toml"
+hash = "3645e94f526a4cb596f7d511bd66f4699ed26bacadbe1e5b5d2df5caea74cb6b"
 metafile = true
 
 [[files]]
@@ -615,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/biome-music.pw.toml"
 hash = "4f758cd149d3289591c46b26253a6498575beaff81fec9e6765eb88dea2bd9bc"
+metafile = true
+
+[[files]]
+file = "mods/bisect-mod.pw.toml"
+hash = "de930a5b514ea97e27f39257dc4be3b2ac4820bbe922c5e0ba67d56c32fa7c73"
 metafile = true
 
 [[files]]
@@ -1023,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "035c1decfd031b586058ebdd7b458620d61f5c7bb90ca76e2c69436b03bac6e3"
+hash = "a42373ac95844aba0e2a5228b004cfd0dbab75d2e2c9252fb178252b5e4c433a"
 metafile = true
 
 [[files]]

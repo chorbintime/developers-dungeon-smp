@@ -1,0 +1,13 @@
+name = "BisectHosting Server Integration Menu"
+filename = "BHMenu-Fabric-1.21-2.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yWSAtnfH/versions/pqepodR9/BHMenu-Fabric-1.21-2.5.1.jar"
+hash-format = "sha512"
+hash = "65ff287733e774a2c868ac13923cef1badca1d7e937eaa1c73ae59d6657cc494c87c1e04a367ac5fe63d4f67f81002a710d876a1b27dd4eede96f46dbfb00a15"
+
+[update]
+[update.modrinth]
+mod-id = "yWSAtnfH"
+version = "pqepodR9"
