@@ -1,0 +1,13 @@
+name = "Framework"
+filename = "framework-fabric-1.21.1-0.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df04a261954c87c6ad9d3b890cae707652cc30a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5692391
+project-id = 549225
