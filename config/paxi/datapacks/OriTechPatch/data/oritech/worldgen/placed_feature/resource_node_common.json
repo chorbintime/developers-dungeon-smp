@@ -1,0 +1,12 @@
+{
+  "feature": "oritech:resource_node_common",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 150
+    },
+    {
+      "type": "minecraft:in_square"
+    }
+  ]
+}

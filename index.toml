@@ -365,6 +365,66 @@ file = "config/particle_core_disabled_optimizations.json"
 hash = "2bcb7aea228925ebab95b854ac359bc26993af0a6f4b49b33e6cb734d284c35b"
 
 [[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/configured_feature/oil_spring.json"
+hash = "b9d4318d19e87c8419b8d1027907c7a38e760058c6bf68f8cbb8e86118c02e77"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/configured_feature/ore_nickel.json"
+hash = "a30381f719c30f26f192733d19417bae06683b3ba24fc8a271bd5f26f88fb680"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/configured_feature/ore_platinum.json"
+hash = "4a254088fcadf102ee7c4ff3142b8fcc96e5a636f962649cb5e0d272675c205e"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/configured_feature/resource_node_common.json"
+hash = "5b4208b265891a7255903964bd1486483e896b6923b409111ae6102ad4cd2d87"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/configured_feature/resource_node_other.json"
+hash = "766dbaadf7a510630eb28384b0a120835529895f6fa92438424096125beef01e"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/configured_feature/resource_node_rare.json"
+hash = "4b48533cdd6574890cbb50161a0c9df9d874bda72cf3de724af6fb93c5f6965a"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/placed_feature/oil_spring.json"
+hash = "fa8174477aae09e517a456fcf0b606c849d9e08e6703f8dc2e243569a68d5bff"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/placed_feature/oil_spring_desert.json"
+hash = "d393ca3c86d4928ba97adddb078968823a7110aee893caab07999f2d81fd1e83"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/placed_feature/ore_nickel.json"
+hash = "32b49c7a685a669d6a167208e54b3c3058e3d4726ddeadb4781b0981d40bf4bd"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/placed_feature/ore_platinum.json"
+hash = "d5a27c3ac3ab209de5b7909456a7a683207d33409f091d095f5e5581617dea7f"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/placed_feature/ore_platinum_end.json"
+hash = "1272938bc3513917a1261167a8a7b6ca6307a11531115ef0ea8ec9829d4b3a1b"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/placed_feature/resource_node_common.json"
+hash = "fb2cd3c610ae301ab38faacbf76dcefb8130412cd6e84ceacd2666634ebc6ff5"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/placed_feature/resource_node_other.json"
+hash = "d0269c7a754efd003bf186fa4eec35abec1c2b9eb811c20653523e63a82b9574"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/data/oritech/worldgen/placed_feature/resource_node_rare.json"
+hash = "be6b2d91f8f74f286a4db9b3da8297dcc5ea831a5a75dd500bd84701b7afd197"
+
+[[files]]
+file = "config/paxi/datapacks/OriTechPatch/pack.mcmeta"
+hash = "1231d981ab504c0517025f2f29d6818bbf8982452b55db9a0ef30f4c37cb1ebf"
+
+[[files]]
 file = "config/polymer/client.json"
 hash = "a48944832b3d6ddfada784330a3006afa7c5e9beb995489d383d2b25854cbb6f"
 
@@ -1275,10 +1335,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "26a93c9886f0de10922d7941953fe88d1283a0a2d29c0ccc15de144f5239afde"
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/lootr-retextured.pw.toml"

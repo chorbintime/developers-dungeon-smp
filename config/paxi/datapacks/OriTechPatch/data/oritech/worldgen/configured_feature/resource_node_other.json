@@ -1,0 +1,29 @@
+{
+  "type": "oritech:resource_node",
+  "config": {
+    "nodeSize": 5,
+    "boulderRadius": 0,
+    "nodeOres": [
+      "oritech:resource_node_gold",
+      "oritech:resource_node_nickel",
+      "oritech:resource_node_lapis",
+      "oritech:resource_node_lapis",
+      "oritech:resource_node_redstone",
+      "oritech:resource_node_redstone",
+      "oritech:resource_node_redstone",
+      "minecraft:bedrock"
+    ],
+    "boulderOres": [
+      "minecraft:deepslate_gold_ore",
+      "minecraft:deepslate_lapis_ore",
+      "minecraft:deepslate_redstone_ore",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate",
+      "minecraft:deepslate"
+    ],
+    "overlayBlock": "oritech:oil_fluid_block",
+    "overlayHeight": 3
+  }
+}
