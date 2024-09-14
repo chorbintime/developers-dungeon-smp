@@ -39,10 +39,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Owo Lib
 - Trinkets
 
-## Removed Mods
-
-- Affinity
-
 ## Other Changes
 
 - Removed my eyes (:eyes:)

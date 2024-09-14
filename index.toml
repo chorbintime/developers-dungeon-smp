@@ -639,6 +639,10 @@ hash = "abe2ff3e470d80262b151d3914f230213df14ae672aa093b2d89275073d3e0b7"
 metafile = true
 
 [[files]]
+file = "mods/affinity-0.1.3-pre.420+1.21.jar"
+hash = "de93eaf13d929f11ff28446408206743297fd346a39f8abbea95d6c0c35c162f"
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "ba8e2c966caf90b1c590ebb3af177a5e704411598f6cc93be10deecb9797b283"
 metafile = true
