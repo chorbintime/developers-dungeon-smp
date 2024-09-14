@@ -38,11 +38,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cardinal Components API
 - Owo Lib
 - Trinkets
-- Affinity
 
 ## Removed Mods
 
-- Verdance
+- Affinity
 
 ## Other Changes
 

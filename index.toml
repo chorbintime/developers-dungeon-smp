@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5b5e87915aae2081830ee070e89c4aaa29f4b22c78ca93605616dd2ff27d023c"
+hash = "950bf463982e714f57eecde7f732cd94a880639c61b2b2f4a5ee2f5d999c574e"
 
 [[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
@@ -714,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "b4e70e0d9c83d816fbe8b1aafcbf78e3a8f07174d4af7778addb323b374647bd"
+hash = "bb6cf549758d7de7e2cdeb4034dc86fb56c37e94e42b8edcbef2bc2dd251c685"
 metafile = true
 
 [[files]]
@@ -1234,7 +1234,7 @@ metafile = true
 
 [[files]]
 file = "mods/verdance.pw.toml"
-hash = "3f435aa0d3439bd76c66b2bc3a61a90d5e3048ab83c022009248f54fa84247ca"
+hash = "4a6b03222892e22f853eb9d23d1992740b7036f024cdb932d4d4b6e3212c7cb6"
 metafile = true
 
 [[files]]
