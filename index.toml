@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-<<<<<<< HEAD
 hash = "afae5350cf7407b93cd267122e56cfbb879fef7b5080d700ef8e2538d3da2129"
-=======
-hash = "5b5e87915aae2081830ee070e89c4aaa29f4b22c78ca93605616dd2ff27d023c"
->>>>>>> 45472109c29e7b58c6ffc028f6356e22637e5329
 
 [[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
@@ -1348,15 +1344,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-<<<<<<< HEAD
 hash = "1d7443e494a7553e6e7703401d104c4e8dfc5c0b27333d5ac06694f8af205156"
-=======
-hash = "26a93c9886f0de10922d7941953fe88d1283a0a2d29c0ccc15de144f5239afde"
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
->>>>>>> 45472109c29e7b58c6ffc028f6356e22637e5329
 
 [[files]]
 file = "resourcepacks/lootr-retextured.pw.toml"
