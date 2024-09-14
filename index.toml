@@ -5,11 +5,6 @@ file = "changelog.md"
 hash = "fb231dd014eba43dd0c4175bcf4c011c9f3c4da8820cbc946d81cef0a3c9342a"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "8f8f05944c6f7cebd1d8ca6f07edb8a809575f79cd672f84e359c8153174a3a2"
-metafile = true
-
-[[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
 hash = "0ce694b7842011f30705cbadc1140a105e15eabe5983dd62605d82e57fefd201"
 
@@ -1108,4 +1103,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "ca4306853c6033d1a8b4c54043581e28f266d0f30a624546487c45f6d6c829cc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8f8f05944c6f7cebd1d8ca6f07edb8a809575f79cd672f84e359c8153174a3a2"
 metafile = true
