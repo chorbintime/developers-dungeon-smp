@@ -3,11 +3,11 @@ filename = "owo-lib-0.12.13+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "82dcf55e4b0e0c7fc0f888b264127584ff690417"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/8emxtz6T/owo-lib-0.12.13%2B1.21.jar"
+hash-format = "sha512"
+hash = "7e1bb5637955bee980e62c4a5567c278f0f6b8e0e507c7a7a5cff2fbdffee0e13086d2485277f2dae42909d61ba9bb8a1ec23e1fa642e9b0a414a03ebcf3cb8a"
 
 [update]
-[update.curseforge]
-file-id = 5720606
-project-id = 532610
+[update.modrinth]
+mod-id = "ccKDOlHs"
+version = "8emxtz6T"
