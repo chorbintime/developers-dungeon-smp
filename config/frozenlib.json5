@@ -4,6 +4,7 @@
 	*/
 	"jankson:schema_version": 0,
 	// Mods may override any of these options, but the config file will not change.
+	isDebug: false,
 	useWindOnNonFrozenServers: true,
 	saveItemCooldowns: false,
 	removeExperimentalWarning: false,

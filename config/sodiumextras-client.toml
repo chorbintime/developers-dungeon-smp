@@ -38,7 +38,7 @@
 		[embeddiumextras.quality.darkness]
 			#Configure Darkness Mode
 			#Each config changes what is considered 'true darkness'
-			#Allowed Values: TOTAL_DARKNESS, PITCH_BLACK, DARK, DIM, OFF
+			#Allowed Values: PITCH_BLACK, TOTAL_DARKNESS, DARK, DIM, OFF
 			mode = "OFF"
 			#Toggle Darkness on Overworld dimension
 			enableOnOverworld = true

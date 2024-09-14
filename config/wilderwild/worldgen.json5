@@ -53,5 +53,8 @@
 	"surfaceDecoration": true,
 	"snowBelowTrees": true,
 	"surfaceTransitions": true,
+	"addStoneChests": true,
 	"newWitchHuts": true,
+	"decayTrailRuins": true,
+	"newDesertVillages": true,
 }

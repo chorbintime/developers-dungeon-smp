@@ -778,6 +778,10 @@ hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
 
 [[files]]
+file = "mods/fasterrandom-5.1.0.jar"
+hash = "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08"
+
+[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "93f14c68b1ca2842c0cfaaed625acb84508a44149677228ce4a77a64ae26f76f"
 metafile = true
@@ -895,6 +899,10 @@ metafile = true
 file = "mods/loot-integrations.pw.toml"
 hash = "ee8611564ef69039b52978afe941bd396b6b34964a680bf8b4f9f9c80c8ceeea"
 metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes-1.7.jar"
+hash = "0fb9573eafbc7490e8fa295a647a3e4f525fae87d41762e1c532066a50251a1e"
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
@@ -1020,6 +1028,10 @@ metafile = true
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "43f3ec75de91c336db90d1dab5297c596691b0e2bed1cd9e89995f3c0704416c"
 metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-0.5.11+mc1.21.jar"
+hash = "3bf1783f9081d28067457734eff52f4579b6b8378c075663784684f6f2f1aa37"
 
 [[files]]
 file = "mods/sodium-leaf-culling.pw.toml"
