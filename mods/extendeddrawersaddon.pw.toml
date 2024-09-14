@@ -1,0 +1,13 @@
+name = "ExtendedDrawersAddon"
+filename = "extendeddrawersaddon-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/daHYok8P/versions/Togcm2bs/extendeddrawersaddon-1.1.0.jar"
+hash-format = "sha512"
+hash = "8664caafb810dee06821d741923b6c43ab36bea29361d8057ed75e21324ec9c0110ce96ba246045e6a201e798638d1dc1b8155332c59bd4ce2ac1eb311e76b82"
+
+[update]
+[update.modrinth]
+mod-id = "daHYok8P"
+version = "Togcm2bs"

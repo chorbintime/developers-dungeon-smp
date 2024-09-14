@@ -899,6 +899,16 @@ hash = "138594d3dbe75675b3e861add8698eb197b93726ba8657d89b90aaaa3e9c7949"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "f7ea45e7161aa3de81de9ffd71a02eec2e6e57f563365941474c750afc467f19"
+metafile = true
+
+[[files]]
+file = "mods/extendeddrawersaddon.pw.toml"
+hash = "a9d6448a34f2a26c233a24ee23a7fab6c017dd5eaa5301da891803883e276f49"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
 metafile = true
