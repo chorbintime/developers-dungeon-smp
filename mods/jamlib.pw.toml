@@ -3,11 +3,11 @@ filename = "jamlib-fabric-1.0.11+1.21.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/7NY3wW64/jamlib-fabric-1.0.11%2B1.21.jar"
 hash-format = "sha1"
 hash = "1abfe1380649d8545e38a36614cee931037a2315"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5599266
-project-id = 623764
+[update.modrinth]
+mod-id = "IYY9Siz8"
+version = "7NY3wW64"

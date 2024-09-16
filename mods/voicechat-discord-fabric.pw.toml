@@ -1,0 +1,7 @@
+name = "voicechat-discord-fabric"
+filename = "voicechat-discord-fabric-3.0.5.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/S1jG5YV5/versions/wun5XaHi/voicechat-discord-fabric-3.0.5.jar"
+hash-format = "sha256"
+hash = "5ec15b80b9b6e01db66a86352b8f057e8aac7c50309f23823dae8b9d99910222"

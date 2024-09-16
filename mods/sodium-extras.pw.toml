@@ -1,13 +1,13 @@
 name = "Sodium Extras"
-filename = "sodiumextras-fabric-1.0.1-1.21.1.jar"
+filename = "sodiumextras-fabric-1.0.3-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vqqx0QiE/versions/WgwlyWSe/sodiumextras-fabric-1.0.1-1.21.1.jar"
-hash-format = "sha512"
-hash = "efacf42b2b9a5b29cd08df39c7a22264319a7b56033522ba67daaf5b39ff50ad969c46ea9701082d7a8181a2d7902230bb3d9afb5e6c40fb1f53a689205590af"
+url = "https://cdn.modrinth.com/data/vqqx0QiE/versions/BrmMYF95/sodiumextras-fabric-1.0.3-1.21.1.jar"
+hash-format = "sha1"
+hash = "967fd908ac5c65137fa9fee002e8f9ffea7720d1"
 
 [update]
 [update.modrinth]
 mod-id = "vqqx0QiE"
-version = "WgwlyWSe"
+version = "BrmMYF95"

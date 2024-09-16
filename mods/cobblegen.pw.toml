@@ -1,13 +1,13 @@
-name = "CobbleGen [Fabric/Forge]"
+name = "CobbleGen"
 filename = "1.21-fabric-5.3.10+1.21b46-BETA-fabric.jar"
-side = "both"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/qRogT5Gy/versions/rK2g3tdA/1.21-fabric-5.3.10%2B1.21b46-BETA-fabric.jar"
 hash-format = "sha1"
 hash = "c34caa3601fe1d30fc08d7e35ded3039840dd026"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5708978
-project-id = 581293
+[update.modrinth]
+mod-id = "qRogT5Gy"
+version = "rK2g3tdA"

@@ -3,11 +3,11 @@ filename = "chipped-fabric-1.21.1-4.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/BAscRYKm/versions/1oKdXqX1/chipped-fabric-1.21.1-4.0.1.jar"
 hash-format = "sha1"
 hash = "c2d23433b7da6b5f0bc35f00c8294705abbbea40"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5681014
-project-id = 456956
+[update.modrinth]
+mod-id = "BAscRYKm"
+version = "1oKdXqX1"

@@ -3,11 +3,11 @@ filename = "transmog-fabric-1.5.0+1.21.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Th33t82F/versions/Hm1VJ8TD/transmog-fabric-1.5.0%2B1.21.jar"
 hash-format = "sha1"
 hash = "dd8670081a538c93d85959df9efd2149bebb44c9"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5697283
-project-id = 848032
+[update.modrinth]
+mod-id = "Th33t82F"
+version = "Hm1VJ8TD"

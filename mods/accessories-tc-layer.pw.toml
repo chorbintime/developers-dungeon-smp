@@ -3,11 +3,11 @@ filename = "accessories_tclayer-3.10.0-beta.11+1.21.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TkWgV1AW/versions/66BFHfl1/accessories_tclayer-3.10.0-beta.11%2B1.21.jar"
 hash-format = "sha1"
 hash = "a388114534deb101e3cddb2b505e9b74f704bf79"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5718207
-project-id = 1005680
+[update.modrinth]
+mod-id = "TkWgV1AW"
+version = "66BFHfl1"

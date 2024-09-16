@@ -1,13 +1,13 @@
-name = "Crawl (Fabric)"
+name = "Crawl"
 filename = "crawl-0.13.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/H1JOVjhn/versions/a5jbkyCZ/crawl-0.13.0.jar"
 hash-format = "sha1"
 hash = "42fd9813b885b2903f0a6825357308fac21f83e8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5489993
-project-id = 314579
+[update.modrinth]
+mod-id = "H1JOVjhn"
+version = "a5jbkyCZ"

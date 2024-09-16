@@ -3,11 +3,11 @@ filename = "packetfixer-fabric-1.4.1-1.21-to-1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/4qX7Fy1t/packetfixer-fabric-1.4.1-1.21-to-1.21.1.jar"
 hash-format = "sha1"
 hash = "fd8d7c55f30e1de0ec35bf5c9d55a4bf31f211fd"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5608960
-project-id = 689467
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "4qX7Fy1t"

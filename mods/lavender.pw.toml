@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/D5h9NKNI/versions/aIAIBtB3/lavender-0.1.13%2B1.21.jar"
-hash-format = "sha512"
-hash = "ba7e7feacdcfb748f654765c450c66bdb07c908ab28416123fcde6a35ff56fdef8a7ded590506ecc2d165fb717e0356b7b2c797d2f2f8bf9cc2cc81dabe43f02"
+hash-format = "sha1"
+hash = "5f7afbd1f9ee2c2be60ebfc561cef5d38d2225ea"
 
 [update]
 [update.modrinth]
