@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "afae5350cf7407b93cd267122e56cfbb879fef7b5080d700ef8e2538d3da2129"
+hash = "6c9300bf865f33efe1c47f9137317263b649ffbc9f160d30153b4b44dc515f95"
+
+[[files]]
+file = "changelog.md"
+hash = "d48a3aea5ced25deda602dd9bc4538c488c91ba5b06032a78018812e06d6d3ee"
 
 [[files]]
 file = "config/EndRemastered-Fabric/Eyes/black_eye.json"
@@ -422,7 +426,7 @@ hash = "be6b2d91f8f74f286a4db9b3da8297dcc5ea831a5a75dd500bd84701b7afd197"
 
 [[files]]
 file = "config/paxi/datapacks/OriTechPatch/pack.mcmeta"
-hash = "1231d981ab504c0517025f2f29d6818bbf8982452b55db9a0ef30f4c37cb1ebf"
+hash = "d1db76ed8145bdfc361303f08950d125164582151a8017706db30c4ca9b6f117"
 
 [[files]]
 file = "config/polymer/client.json"
@@ -910,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
+hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
 metafile = true
 
 [[files]]
@@ -985,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/gipples-galore.pw.toml"
-hash = "22a87d60e0ca2d030a5593827ae4d8427da90a39b07442b51a2704d057f70210"
+hash = "6973b1892fb31a53a92d11295faaf1622972a41632be9222500d4588e72dc464"
 metafile = true
 
 [[files]]
