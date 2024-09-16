@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Other Changes
 
 - `options.txt` is not `defaultoptions.txt` to avoid overwriting an existing one.
+- Moved most mods to Modrinth.
 
 ## [v0.7.1] - 2024-09-14
 
