@@ -5,6 +5,39 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+## Added Mods
+
+- DefaultOptions
+
+## Other Changes
+
+- `options.txt` is not `defaultoptions.txt` to avoid overwriting an existing one.
+
+## [v0.7.1] - 2024-09-14
+
+## Removed Mods
+
+- Charm: Forked
+
+## [v0.7] - 2024-09-14
+
+## New Mods
+
+- AppleSkin
+- Charm: Forked
+- FancyMenu
+- Forge Config API Port
+- Jade
+- Konkrete
+- Melody
+- Mouse Tweaks
+- OK Boomer
+- Open Parties and Claims
+- Tom's Simple Storage Network
+- Traveler's Backpack
+
 ## [v0.6] - 2024-09-14
 
 ## New Mods

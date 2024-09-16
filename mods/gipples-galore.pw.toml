@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QYfKDJOV/versions/o3XEEnh1/gipples_galore-1.21.1-1.1.1.jar"
-hash-format = "sha512"
-hash = "24a5a4b4f276d5d51a5c595dbaa66ed2eba0351f7c41203c1440291e2e86439e5ec56e6a5d2b91758b4dca9bb29e3b9181de8129e2cdd7dac0edf00484d795d1"
+hash-format = "sha1"
+hash = "312e9e8468080726be647e380ea51a2021504e6e"
 
 [update]
 [update.modrinth]
