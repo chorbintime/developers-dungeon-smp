@@ -853,6 +853,11 @@ hash = "885f45bf2ea19246852578532b2f413b015edaa8512d28a215383bf0d9656199"
 metafile = true
 
 [[files]]
+file = "mods/defaultoptions.pw.toml"
+hash = "2317ff0ff51a88daee27faeb26ce0fd98de831f9832c31cd20227eaad5a1265c"
+metafile = true
+
+[[files]]
 file = "mods/deuf-refabricated.pw.toml"
 hash = "883a944be26f4cac7e20864f0e6b47cd80a50913fe3dcf48db5850bfe73c1068"
 metafile = true
