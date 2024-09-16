@@ -2,9 +2,6 @@
 *.mrpack
 *.tar.gz
 server
-<<<<<<< HEAD
 install
 packwiz-installer.jar
 config/sodium-fingerprint.json
-=======
->>>>>>> 2563176 (Step 2)

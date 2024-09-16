@@ -2,8 +2,5 @@
 *.mrpack
 *.tar.gz
 server
-<<<<<<< HEAD
 install
 packwiz-installer.jar
-=======
->>>>>>> 2563176 (Step 2)
