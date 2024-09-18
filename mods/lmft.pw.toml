@@ -1,6 +1,6 @@
 name = "Load My F***ing Tags"
 filename = "lmft-1.0.4+1.21-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/67kVxsaO/versions/u5vsX04C/lmft-1.0.4%2B1.21-fabric.jar"
