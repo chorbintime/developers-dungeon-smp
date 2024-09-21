@@ -1,6 +1,6 @@
 name = "View Distance Fix"
 filename = "viewdistancefix-fabric-1.21.1-1.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nxrXbh5K/versions/MYTZEnn2/viewdistancefix-fabric-1.21.1-1.0.2.jar"

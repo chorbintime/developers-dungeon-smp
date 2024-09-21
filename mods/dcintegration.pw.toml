@@ -1,6 +1,6 @@
 name = "Discord Integration"
 filename = "dcintegration-fabric-3.0.7.2-1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/I3kp6jxL/dcintegration-fabric-3.0.7.2-1.21.jar"

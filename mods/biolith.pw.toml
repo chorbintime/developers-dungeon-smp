@@ -1,6 +1,6 @@
 name = "Biolith"
 filename = "biolith-fabric-3.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/3JwNdEbI/biolith-fabric-3.0.0.jar"
