@@ -1,13 +1,13 @@
 name = "Oritech"
-filename = "oritech-0.8.1.jar"
+filename = "oritech-0.9.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4sYI62kA/versions/iEUIyDmu/oritech-0.8.1.jar"
+url = "https://cdn.modrinth.com/data/4sYI62kA/versions/2gKNPLtT/oritech-0.9.0.jar"
 hash-format = "sha512"
-hash = "7022542ae5e3fd26ccf33a6474279d6127a2a7bd3c5874372feb0958020ba7a382aacb9cf92bef4e721e1918b4345650de089128dfbdf3bd16311dfa01507302"
+hash = "1d15bfd2b81939d3b574fd4fdbe16b315a401a990a6b7279012518b1cae58e80c89467bc8cb8558502e7e39bfe8517e3dbc9becd0896d9c718e3927fe56e6094"
 
 [update]
 [update.modrinth]
 mod-id = "4sYI62kA"
-version = "iEUIyDmu"
+version = "2gKNPLtT"

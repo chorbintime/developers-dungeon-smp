@@ -3,11 +3,11 @@ filename = "viewdistancefix-fabric-1.21.1-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "106718b4fc64304d9f9c97a988b7e37b2a54496c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/nxrXbh5K/versions/MYTZEnn2/viewdistancefix-fabric-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "aa2d7ef5ec40e63ababdee89cf131e713a7d33d891a73332d559e5f07a5cbf1d39331cccbbfb6a812b8cc0d9123683d584cd343e0392d184d7a47db00556b441"
 
 [update]
-[update.curseforge]
-file-id = 5608113
-project-id = 687795
+[update.modrinth]
+mod-id = "nxrXbh5K"
+version = "MYTZEnn2"

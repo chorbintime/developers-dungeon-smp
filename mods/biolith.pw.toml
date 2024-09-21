@@ -3,11 +3,11 @@ filename = "biolith-fabric-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2a106cebae2ec705fc3f92fa4c7c0bfef8953a32"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/3JwNdEbI/biolith-fabric-3.0.0.jar"
+hash-format = "sha512"
+hash = "d20cc01c51536ed0e8d00099a6ad183f0bda97a801379715e7d3f6eeaf24e259b3a3b53634c38f97936e17a5e2aa00bfed082c6e49ffbaba64b51b818fce7b78"
 
 [update]
-[update.curseforge]
-file-id = 5626824
-project-id = 852512
+[update.modrinth]
+mod-id = "iGEl6Crx"
+version = "3JwNdEbI"

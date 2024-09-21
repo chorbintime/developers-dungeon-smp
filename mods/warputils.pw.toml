@@ -1,0 +1,13 @@
+name = "WarpUtils"
+filename = "warputils-fabric-mc1.20.5-1.21.1-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E7tP6wsR/versions/GioRpbd9/warputils-fabric-mc1.20.5-1.21.1-0.3.3.jar"
+hash-format = "sha512"
+hash = "ca27e0e1494264114ab7bd3b9d78c48e8b6cdadaf78530ed8c8e73b3a2355dd5205d3f5fafda1263097aece80799b382f0843502304c3cd434dd10b159a20629"
+
+[update]
+[update.modrinth]
+mod-id = "E7tP6wsR"
+version = "GioRpbd9"

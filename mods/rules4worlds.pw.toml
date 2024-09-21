@@ -1,0 +1,13 @@
+name = "Rules4Worlds"
+filename = "rules4worlds-fabric-mc1.20.5-1.21.1-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QPnj1h3s/versions/HXvgSOnU/rules4worlds-fabric-mc1.20.5-1.21.1-0.1.0.jar"
+hash-format = "sha512"
+hash = "db52e2de2edec4be7ab57054a174704c9bc315c9dfe4b93f5a475e1706952abd83be4e6405fce73a87fd7f325ad1a75a6861864c57e0069a186a0dfd8e1589f0"
+
+[update]
+[update.modrinth]
+mod-id = "QPnj1h3s"
+version = "HXvgSOnU"

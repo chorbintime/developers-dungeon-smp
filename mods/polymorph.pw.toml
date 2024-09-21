@@ -1,13 +1,13 @@
-name = "Polymorph (Fabric/Forge/Quilt)"
+name = "Polymorph"
 filename = "polymorph-fabric-1.0.6+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/AGMyBSJE/polymorph-fabric-1.0.6%2B1.21.1.jar"
 hash-format = "sha1"
 hash = "6a6e9782aaf02b05871a60f7afa1a70449ed5f84"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5696656
-project-id = 388800
+[update.modrinth]
+mod-id = "tagwiZkJ"
+version = "AGMyBSJE"

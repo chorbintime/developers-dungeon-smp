@@ -1,0 +1,19 @@
+
+
+#I hate this so much
+
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:bane_of_arthropods"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:bane_of_arthropods":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:blast_protection"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:blast_protection":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:efficiency"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:efficiency":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:feather_falling"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:feather_falling":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:fire_protection"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:fire_protection":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:impaling"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:impaling":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:piercing"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:piercing":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:power"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:power":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:projectile_protection"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:projectile_protection":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:protection"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:protection":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:sharpness"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:sharpness":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:smite"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:smite":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:density"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:density":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:breach"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:breach":3}
+$execute if items entity @s armor.legs *[minecraft:stored_enchantments~[{enchantments:"minecraft:wind_burst"}]] run data modify entity @s Offers.Recipes[$(slot)].sell.components."minecraft:stored_enchantments".levels set value {"minecraft:wind_burst":3}

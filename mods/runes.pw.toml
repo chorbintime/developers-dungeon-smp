@@ -1,0 +1,13 @@
+name = "Runes"
+filename = "runes-1.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/ajtep1px/runes-1.0.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "694c19bd70110fea3755fdb30286641a4207afb219d2cb2f91543d4feea305f2c4ac47d687b67e7ed34029dde5f867da924d88d76896ef9bb6e7d0226c5e188c"
+
+[update]
+[update.modrinth]
+mod-id = "lP9Yrr1E"
+version = "ajtep1px"

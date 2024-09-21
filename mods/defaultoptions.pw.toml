@@ -1,0 +1,7 @@
+name = "defaultoptions"
+filename = "defaultoptions-0.1.0+1.21.1.jar"
+
+[download]
+url = "https://github.com/RedstoneWizard08/DefaultOptions/releases/download/v0.1.0%2B1.21.1/defaultoptions-0.1.0+1.21.1.jar"
+hash-format = "sha256"
+hash = "f51a786dadbc1403a3b5680952f10ae0791d433bb7030eb32115440c46020c81"

@@ -3,11 +3,11 @@ filename = "rightclickharvest-fabric-4.3.1+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "412d6319f57e0f35063610aa93d451f16a4e7d57"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/G8rHINcW/rightclickharvest-fabric-4.3.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "51b80d1407ad1a294c3b19d2823b6fb36dcdf0ed89d71ff16d0ac680cd9c85439ce2f5a8ba73efb5d9a51b4a40aec5bf460445c0dbd07c1da31361cbeaf8d4df"
 
 [update]
-[update.curseforge]
-file-id = 5492118
-project-id = 452834
+[update.modrinth]
+mod-id = "Cnejf5xM"
+version = "G8rHINcW"

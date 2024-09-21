@@ -1,0 +1,13 @@
+name = "Structure Pool API"
+filename = "structure_pool_api-1.1.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LrYZi08Q/versions/E7RSE5Kh/structure_pool_api-1.1.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "6e570b2a9aa1c14de937cf49db0b9c851db4e96ea0dd0e256138cd682f982c4feee6c5895a7022dcffe761c1a2b18fc4ae2927a4bcfa6b4a017a6ed3c6995f01"
+
+[update]
+[update.modrinth]
+mod-id = "LrYZi08Q"
+version = "E7RSE5Kh"

@@ -3,11 +3,11 @@ filename = "sketch-1.21.1-1.2.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/4erSrc0h/versions/FIrvx2L9/sketch-1.21.1-1.2.1.jar"
 hash-format = "sha1"
 hash = "ed307222ee0c38b33426b9fe5b2bddd9268cd876"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5609334
-project-id = 1008273
+[update.modrinth]
+mod-id = "4erSrc0h"
+version = "FIrvx2L9"

@@ -1,13 +1,13 @@
 name = "Mythic Metals Decorations"
-filename = "mythicmetals-decorations-0.7.1+1.21.jar"
+filename = "mythicmetals-decorations-0.7.2+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2a9ebbfbfbbd3d834f9ea7fb98bc93dcb5263a04"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Wtv23AFN/versions/q6cEUfEU/mythicmetals-decorations-0.7.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "c3dfa4af5bac9bbee229bb135129a6bc9109324e6d9f959497c0503461ee87b25085857457fda793b43e138c739b4f71fdf57e9cbc0bc7f2b473572eb609f165"
 
 [update]
-[update.curseforge]
-file-id = 5672427
-project-id = 552128
+[update.modrinth]
+mod-id = "Wtv23AFN"
+version = "q6cEUfEU"
