@@ -1,0 +1,13 @@
+name = "Re-Imagine-Tom-Simple-Storage"
+filename = "Re-Simple-Storage.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d16ecd49e6e8bc4e3a9d23e85b8794f4ed1d2322"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5723513
+project-id = 1102852

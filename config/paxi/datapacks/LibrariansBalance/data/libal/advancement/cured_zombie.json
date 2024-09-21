@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:cured_zombie_villager",
+      "conditions": {
+        "zombie": {
+          "nbt": "{Offers:{Recipes:[{sell:{components:{\"minecraft:custom_data\":{traded: 1b}}}}]}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "libal:villager/cured_zombie"
+  }
+}

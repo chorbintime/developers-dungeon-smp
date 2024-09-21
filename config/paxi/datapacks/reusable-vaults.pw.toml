@@ -1,0 +1,13 @@
+name = "Reusable Vaults"
+filename = "InfVaults.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RqzpnXB7/versions/iJmDx5aY/InfVaults.zip"
+hash-format = "sha512"
+hash = "2ccfb476344390d01fa08f98eebc1a0be27c8b6d731b17ffdcfe6de6ad739be98c15451c5cfea185eacb7f1d25939d10ce70a9aa48bd43bd4e17a976345f4c3a"
+
+[update]
+[update.modrinth]
+mod-id = "RqzpnXB7"
+version = "iJmDx5aY"

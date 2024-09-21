@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/oZiSDGCi/versions/bQS4RMW3/fullstackwatchdog-1.0.1%2B1.19.2-fabric.jar"
-hash-format = "sha1"
-hash = "f4b733093f52e01336d451d089edf19f812320c3"
+hash-format = "sha512"
+hash = "aca5e11958e07e6da38fdbe044a9a5d0f2e976c8bd390dcfec91ba6f92b1ef2d801f98bb744f76d589e3f464dbc61d4181037453ee3d9b655df1fd15d240cf22"
 
 [update]
 [update.modrinth]

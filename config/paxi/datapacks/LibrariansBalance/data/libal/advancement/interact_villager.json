@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:villager",
+          "nbt": "{VillagerData:{profession:\"minecraft:librarian\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "libal:filter"
+  }
+}

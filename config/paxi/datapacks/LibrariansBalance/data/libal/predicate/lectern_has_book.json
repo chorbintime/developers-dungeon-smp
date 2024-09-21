@@ -1,0 +1,6 @@
+{
+	"condition": "minecraft:location_check",
+	"predicate": {
+		"block": {"nbt": "{Book:{id:\"minecraft:enchanted_book\"}}"}
+	}
+}

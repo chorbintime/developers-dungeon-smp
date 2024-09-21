@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/nxrXbh5K/versions/MYTZEnn2/viewdistancefix-fabric-1.21.1-1.0.2.jar"
-hash-format = "sha1"
-hash = "106718b4fc64304d9f9c97a988b7e37b2a54496c"
+hash-format = "sha512"
+hash = "aa2d7ef5ec40e63ababdee89cf131e713a7d33d891a73332d559e5f07a5cbf1d39331cccbbfb6a812b8cc0d9123683d584cd343e0392d184d7a47db00556b441"
 
 [update]
 [update.modrinth]

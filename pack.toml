@@ -1,15 +1,16 @@
 name = "Developers Dungeon SMP"
-version = "0.7.0"
+version = "0.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b7856c37e1496a7d0f4344fdd3433ae1f98c6c684f94cdef00757968dcd3fce8"
+hash = "ac1cf34acf30f34a8c8130c0404f955c9609a58aaa3947491aa9bf1342813072"
 
 [versions]
 fabric = "0.16.5"
 minecraft = "1.21.1"
 
 [options]
-acceptable-game-versions = ["1.21"]
+acceptable-game-versions = ["1.21", "1.21.1"]
+datapack-folder = "config/paxi/datapacks"

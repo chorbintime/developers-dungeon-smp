@@ -1,0 +1,13 @@
+name = "Spell Power Attributes"
+filename = "spell_power-1.0.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8ooWzSQP/versions/Yr88WIqG/spell_power-1.0.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d4dba7afa24883a977401bee2a312c85224b6e7b97d39f1deb1f51b931de4f2d42ebe20223e1e343284641d69f87ccef43c1689637bcaa7ff99fbe85b4591760"
+
+[update]
+[update.modrinth]
+mod-id = "8ooWzSQP"
+version = "Yr88WIqG"

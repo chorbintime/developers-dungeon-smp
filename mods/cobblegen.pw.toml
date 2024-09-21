@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/qRogT5Gy/versions/rK2g3tdA/1.21-fabric-5.3.10%2B1.21b46-BETA-fabric.jar"
-hash-format = "sha1"
-hash = "c34caa3601fe1d30fc08d7e35ded3039840dd026"
+hash-format = "sha512"
+hash = "22af875f0ef790305d6255a3835d36f4bf8ca20a5c53e9bf1c200a65aba98a3ba0bffa5cca7626d34c307b2d7881069dca805c98f17e77777c3e50b5a56adea1"
 
 [update]
 [update.modrinth]
