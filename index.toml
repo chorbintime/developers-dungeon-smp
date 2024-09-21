@@ -298,7 +298,7 @@ hash = "46d5243fc9ab137067ee886c02dfee2c2ebf3df24943aaa43353b16a8075c6b4"
 
 [[files]]
 file = "config/iris.properties"
-hash = "b8319582c210c90a3c1b99781bb0e64b0f03d2f42f7fcd0202bd6c60d15f415b"
+hash = "967932d3ba77cedb17b4892000bf47b53e792514c326d14506e17c63902824d4"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
