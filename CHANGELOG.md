@@ -5,6 +5,40 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v0.9] - 2024-09-28
+
+## Added Mods
+
+- CalcMod
+- Let's Do API
+- [Let's Do] Vinery
+- [Let's Do] Farm & Charm
+- [Let's Do Addon] Corn Expansion
+
+## Updated Mods
+
+- Almost Unified
+- AzureLib Armor
+- Better Grassify
+- Controlling
+- Energized Power
+- Euphoria Patches
+- Fabric API
+- Fast IP Ping
+- Fzzy Config
+- GeckoLib
+- Let Me Despawn
+- OriTech
+- Recipe Essentials
+- Sodium Extras
+- Spark
+- Spell Engine
+- Too Cheap
+
+## Removed Mods
+
+- Electromechanics
+
 ## [v0.8] - 2024-09-21
 
 ## Added Mods

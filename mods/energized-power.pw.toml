@@ -1,13 +1,13 @@
 name = "Energized Power"
-filename = "energizedpower-1.21.1-2.12.2-fabric.jar"
+filename = "energizedpower-1.21.1-2.12.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6pku8gW1/versions/pcg4nSnQ/energizedpower-1.21.1-2.12.2-fabric.jar"
-hash-format = "sha1"
-hash = "d18da0e3105796ad91b3b92cc4b3404e8c6e02d6"
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/Zwa79fmz/energizedpower-1.21.1-2.12.3-fabric.jar"
+hash-format = "sha512"
+hash = "c785c36aa17643976c13a54ba603e3a8748baee2c2859ee99bde680776d4aec57bf94f20a2510bd84f0cd1c5a341603d00a57d09f0b4fa1d3866da7e1fe36f2d"
 
 [update]
 [update.modrinth]
 mod-id = "6pku8gW1"
-version = "pcg4nSnQ"
+version = "Zwa79fmz"
