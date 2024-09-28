@@ -1,7 +1,0 @@
-name = "lets-do-farm-charm"
-filename = "letsdo-farm_and_charm-fabric-1.2.0-beta-release.jar"
-
-[download]
-url = "https://cdn.modrinth.com/data/HJetCzWo/versions/SnVu33Gf/letsdo-farm_and_charm-fabric-1.2.0-beta-release.jar"
-hash-format = "sha256"
-hash = "9574847c04d3455b2eaf5d57d3e3cd6c6ebc107d686322ed5e055b3ec6bdf66b"

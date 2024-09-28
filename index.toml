@@ -1074,11 +1074,6 @@ hash = "59539298e50e3d7fb15b010b35e54470832d8762c05890581d95f4d4b152c947"
 metafile = true
 
 [[files]]
-file = "mods/do-api.pw.toml"
-hash = "26441f13f3d735bad94a11ee01a813aab64feb183be74902d757a200cd36bad4"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "cfa21c2c893a24bf733371344eb682c359f6ebc7810f2fefe2aba5fb9f4ce83a"
 metafile = true
@@ -1276,26 +1271,6 @@ metafile = true
 [[files]]
 file = "mods/lavender.pw.toml"
 hash = "b3914b8374cc7dabe7573c3945cf2d246d61c46b0577d06790af89b8f9345d0e"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-addon-corn-expansion.pw.toml"
-hash = "abc56d5c77d09aa992c2919a05ca579d54028d20b97565d026c4079d4a212168"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-emi-compat.pw.toml"
-hash = "871538acd879a84fd85533bc1e69f60e2e19b0b8c02d74bb1935af9fbaef959a"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-farm-charm.pw.toml"
-hash = "eb3d9070a533315313b5b2800dca7e0ca138bc2f21871dd814786f1d441fa7ef"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-vinery.pw.toml"
-hash = "2fa698ce68346e27b6fd85a3096de9af7f8f919691dbcc6b183137598f733adc"
 metafile = true
 
 [[files]]
