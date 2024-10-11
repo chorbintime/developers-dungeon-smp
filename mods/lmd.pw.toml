@@ -1,13 +1,13 @@
 name = "Let Me Despawn"
-filename = "letmedespawn-1.3.1.jar"
+filename = "letmedespawn-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/BCokhlwI/letmedespawn-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/rdaGu1EJ/letmedespawn-1.3.2.jar"
 hash-format = "sha512"
-hash = "20f38f8fa66675094ccf0bccca1c13863e2056dfa02f2efc4a2efd12cf47340f9395601b2c58a429be6e16b6ad0aaa449566053379bb1f5a0891f635801dd260"
+hash = "7f2eefb692146efb6ca369ee303659036c5f13bc5c2e615c59b5e9331d8e4cda368542b4342732f429831d9cccfc3562a65fe3d019e9cd04dc109dc7e56a7600"
 
 [update]
 [update.modrinth]
 mod-id = "vE2FN5qn"
-version = "BCokhlwI"
+version = "rdaGu1EJ"

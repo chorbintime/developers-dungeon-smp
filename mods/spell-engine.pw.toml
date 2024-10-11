@@ -1,13 +1,13 @@
 name = "Spell Engine"
-filename = "spell_engine-1.1.0+1.21.1.jar"
+filename = "spell_engine-1.1.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XvoWJaA2/versions/VZ7YM9Hh/spell_engine-1.1.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/XvoWJaA2/versions/vD0MbmOr/spell_engine-1.1.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "985baed2db8e420ab9104e4c114ddbe7763e9bc6e67c656a8769a8b28c4d0a43f44d4067b20d90f668f8d46e65b59e5417444995f53eb2eb96a9ada7ed89daf5"
+hash = "9a8571c25007ba188535c22dd9f2d716af60c34711ae476b6bb03efa17e96cd194d7dd9f13348ee6ec99454ccd9c2948b1227c6dcf8d18a9c8005d530624441c"
 
 [update]
 [update.modrinth]
 mod-id = "XvoWJaA2"
-version = "VZ7YM9Hh"
+version = "vD0MbmOr"

@@ -1040,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "b7739c0f39d8956f68c36520482594f72081d9e9ded62455c1cb0222aab53302"
+hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
 metafile = true
 
 [[files]]
@@ -1076,11 +1076,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "cfa21c2c893a24bf733371344eb682c359f6ebc7810f2fefe2aba5fb9f4ce83a"
-metafile = true
-
-[[files]]
-file = "mods/electromechanics.pw.toml"
-hash = "e55fb5240dd4decdc2ac4ddb73268746e1190ae3c66d57ac22e18a4d03ac3186"
 metafile = true
 
 [[files]]
@@ -1130,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
+hash = "f79a3cdea893a12fa0955186df68681016f5b98d94d31e8ea59fa250465578f6"
 metafile = true
 
 [[files]]
@@ -1430,7 +1425,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "b935380e60293996467bf8d7099aec9ef4c2cbeca3b27bc347434729ceca4ba2"
+hash = "96cf100e91e29024010581dda3a3b5f5a2f4a81741cd9118f545433b2d01de8d"
 metafile = true
 
 [[files]]
