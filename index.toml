@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "c494388694103a56ff4b92b9940d79f04f3bb52ee904f36b3b3d8ad57f7268f2"
+hash = "3796474c8c0d4fb4490be0e47ba8b20b3360f6ab7c0d244f634a2ae23fe732b7"
 
 [[files]]
 file = "cf_only_maybe.txt"
@@ -370,191 +370,191 @@ hash = "2bcb7aea228925ebab95b854ac359bc26993af0a6f4b49b33e6cb734d284c35b"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/advancement/cured_zombie.json"
-hash = "7c9070ae61dc92ea1bfbb13614a2919a1cbaf89ee7399f16a783e42f71c216d7"
+hash = "8ac4b27d20ffddd71aa84008664c113633d0aa59f8ead10bdb97d949287f81c9"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/advancement/interact.json"
-hash = "c6491094be47f9eed1d38e4552a85e6b2031266c1520d688eb8e5d815ddd9ac6"
+hash = "30b4cdfb245f5a117e58466c0073c4f09e0cedb4be2fad6f23931fd4d491c7fe"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/advancement/interact_villager.json"
-hash = "4f6e2e467e0d0224741a22da4537e2d66aa50a53f46313f192ade32a72ef5b13"
+hash = "8949dc7e37323f81ff2930791479ddc545900191161e111770a7294c6e342538"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/config.mcfunction"
-hash = "0003f2c84856195362f0edeff0c5b5eda4d6a9228306487926398d041b4764eb"
+hash = "a1c084169b7d16aa98769cca8186cc3d88424502aaf843da5302c9e57bc528ec"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/filter.mcfunction"
-hash = "ae6780fec03306d3a08ff186a0b6ad4501410a7b1c04b52e6609ad0973269288"
+hash = "31171b0e15c1da71d5262d2fbb6d698a3cbd39d21750c84ad25c27aa9bf3618c"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact.mcfunction"
-hash = "f735474374cfa8ae7e28a5bafac0a87749bbbffb703fba44e65a6826e3fe1950"
+hash = "50a9d36cee8f64908846c77cb6093721b195217a66ac4b73c80ce6610b0fc575"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/book/give_as_item.mcfunction"
-hash = "23cec629893c839d21dc5ff3999fc454c0ee73a9862681fe8f85588e852b508a"
+hash = "fdaabeffa046469aa679d9c566befbe8eae5b96230bb36d81ca26892d9633fcc"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/book/place.mcfunction"
-hash = "da2a39764fce8d55d42da542edd402440de1f7580cac3cf716f9bf470d0c48aa"
+hash = "cd4734d085fc8f737fc723cad681a957f4c9a84454bb4356141b3746ca7041a7"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/book/take.mcfunction"
-hash = "eec8cd1d153563eac8d5a425fb758ca0ecce2f12f7322bf7b7fa0a05e1c82503"
+hash = "b3d2fa9ac51149ed61e1b1a450eb3acfb1f4b0df6e1b99ebd27acecd9a233719"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/find_lectern.mcfunction"
-hash = "6a69366197637e3cb244c35f1832ebb6c0922094b7d035492dcdc5295106546c"
+hash = "f420c532ca839f9e4475c9a8af60a99ae08fbc5688b3afb19249bad6a6aca96e"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/found_lectern.mcfunction"
-hash = "2683f4c001cd56178d684ee061b4a12b78be1383691aaba073a1c4ebf6fa5241"
+hash = "9fde486468973230cd6ee72de7eb55283bd1928ff48f880622c37454ef833752"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/give_ench_book.mcfunction"
-hash = "1b730c15c709c40909909ab0f908d893a3f9974e1d72f685cefddc1caf394d8e"
+hash = "bccd2dfdc6704b9ea5ef44a2b07c4d39db2fdc9879a693185fdfb37ce3af0301"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/judge/blacklist.mcfunction"
-hash = "39fd299ce13c23519017d4ba5fea7ed3fd7ba9f89f92f8a0685ed83091d0b087"
+hash = "658fb2fd5209c42a8a4cd6cd78a5027d42557a40323d974fdbe8d817d8d63910"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/judge/calculate_price_book.mcfunction"
-hash = "c201bde98ddafa450f3da836c591d1721a04a91512243d2a52d1a0f83a3fcccb"
+hash = "ad2eba44fad6c89d6e5dd217a7269a7218e69de7b56255b0f5a83a2225f39606"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/judge/ench_book.mcfunction"
-hash = "6fe5ff0d35f6af613fd95c595e8b49b080b5b53731bc260d92947e16fb818cc3"
+hash = "e8b19676fe2163863c836958ee5b09e7d9b071d7e6e3c691c0ac2c9bf7330f83"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/judge/level_book.mcfunction"
-hash = "ba071f432cd1c822eb70deac17edefbd6c4583f0c45430bccdd72211131fb9af"
+hash = "6062dc60284256eff27c17d3c47c3909f1b4e766247d82fca217110d9dd384dd"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/judge/main.mcfunction"
-hash = "3d654e261dd383cb0418d7319852849f4b9195ae13b3669b652c500e0bf2f8b2"
+hash = "7154f439c7b70d390ff0fe018c8454a3cc2297453b9d7d576c4c511230e33a61"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/place_ench_book.mcfunction"
-hash = "784df10bc97d784847524748a6bb49699e700d507dead609a6b2f3cb15a334f2"
+hash = "9a88a2c0b94400ca6a0c4d6dae605652873e2ca65766aa27770fd7b322e6acb2"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/tome_reader/checker.mcfunction"
-hash = "94eef594e872b8753cf8d1eeafa30a3654a63715d321cb4e4001e2d809a313d5"
+hash = "fa7b9a8938e53086a98df629b81ede6b857a6f7f1303beded040d0d8131aa84b"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/tome_reader/found_lectern.mcfunction"
-hash = "6a43eeb9d903ab9ecd431dca7bd704e15da7cf9ea2a6d2564d0aeec54164fb6d"
+hash = "2e26873d82480f46776bfe4945c38f4a1e5c5d16ea8bc4e1b4fb48157edc4bf4"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/interact/tome_reader/get_checker.mcfunction"
-hash = "e017bccca714f3bce26f97b4eed38148c2736779df6a66db3f43d1d00b650d04"
+hash = "e88769d58afb5d5c9a5e2f5549b489dd14747071a589c4667db86c8187064eb0"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/load.mcfunction"
-hash = "af7c46f76f39e084d19ebedbd2524289e50e2cdb9bb03e74a82db831f9206904"
+hash = "4188606a855a5f36bbbf728e07b916f44bad9c9f9859ac7130b85b598d89b920"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/settings.mcfunction"
-hash = "55d4d9d803836f8851240ec3ff23b4800e2e171240dc26aa9b070986784ba138"
+hash = "4506c21dadfc3c47cccbfcf438f18644f6344245f8ffbbfb7210879f680bca96"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/tick.mcfunction"
-hash = "570ed24992d96b96e44e2bdb25cd7f0a2fb737b7bcf3e4b04cc685d5168b5438"
+hash = "38b4457c92ce8c3c5d76b04ae5eb9be84acfb825d3b4e6147766641f11e56ab1"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/cured_zombie.mcfunction"
-hash = "98b2bef03d34d18f14c2875081ac291575bbd5d3563e2d296a29d06a873c99ee"
+hash = "cfbe5ab117098271b89d20743765075682fb106cfef950072ad60cfc5475b269"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/librarian_add.mcfunction"
-hash = "a35d9f9f568b64bff18b9b7bc23b4093a12215829af4c1f1307175c3c545196e"
+hash = "c1b5280ce6320b91017839498897c31f9258fa00df89d1d9f137b09e39ea25a2"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/librarian_find.mcfunction"
-hash = "751d2b8be2c1565d270b477cabfc9ec852d108c231d5ff6d912546a3c6dd5bbb"
+hash = "4187e9c637b65bb4777c4d3c9eb5f0ada99b8197cd36688a6feda26baca018b2"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/librarian_remove.mcfunction"
-hash = "115c933f0ee48bbe790862c4ce198e69e3ca6313c678e815915c98bb9be51cd9"
+hash = "c62b88dc525c35545d27629ee3cdf81ff852301012daa8fb3341e3c8bc3bee18"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/librarian_travel.mcfunction"
-hash = "be9e3fdc5c4b96fb3dfc87572f562aea2becf0bf9e72171090b38f10007ba4c7"
+hash = "76b8bc1cd6720d95210afe22c127e34811b52e753bc1148883deb2b6edd44b94"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/trades/discover.mcfunction"
-hash = "61a7fa2f3a34c03d24b6c5da929062fe46e645779fb900880384a6e83c4d2d9f"
+hash = "18de7d6ff5e3f1039f8ff23ecb6853cc2a9f1a02f9d2936f7473628e845777a3"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/trades/reduce.mcfunction"
-hash = "acb820b880ec273665cfb8252673ccd5e5a110094b69175568c0d7314333a201"
+hash = "441dce397106374271d4d5a3350a0f86eb8f2da691d3f25234f7ae8f50c78f14"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/trades/reduce_set.mcfunction"
-hash = "5a9373a776ce216b4ba1c4724dc79ce3e152a43ba1d6c6722d04ee9463328781"
+hash = "c6f4559b63aa63de563b5df6d11672a2eb2903a42c53b4102f835df479fcd1ae"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/trades/replace.mcfunction"
-hash = "6c429575777fcc62727b97a888d4f82b1fe1c19e076d496ff410a66d3a27357d"
+hash = "7792a22464150234abd715d76fdfe2d9af9665f24a8306f190bc2e2137b645f8"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/function/villager/trades/seal.mcfunction"
-hash = "a7c0b827191d69e34bb773d8b661cdd41d85b1e2a87745f8025804beea55861c"
+hash = "803ca9ce3212a385a69c76599f0277df26efe8c25efbb0fcff14e12d6d2fa39e"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/predicate/has_ench_book.json"
-hash = "ba28e6b77ba7b1245a673b48f2296bee02e8fa38f0d8d0c306bd9335ce7c0d81"
+hash = "eceba7204d83a6d83b64cc3265b3464622a7da872043b312569fc3e46a8f496b"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/predicate/has_item.json"
-hash = "1356e6a63878ca3cad578c89dda26bc28df1e239d88228f5ef80550dd1095d45"
+hash = "a6cb031cf4993b5e3cfba8e4b7af7c366c5ada9e5fb70849835ec48ea18db693"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/predicate/has_workstation.json"
-hash = "be48a4d5125e2a53048e2e4c87440435bdbbd2210197b53936d4a761b77c3e5b"
+hash = "f3ade66a07021787743c854db05367dd18f6c7f00b50d3eea82c55eb5ae2493d"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/predicate/lectern_has_book.json"
-hash = "79d2e2b275106e0c51180a0fff155a08249b3a8480e762a20c3701687027bac0"
+hash = "948d24792cee4b207f1a79e533a74a4c3e55567c3f630b7cb797d4ac6a6cd56e"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/libal/predicate/travelling.json"
-hash = "30e7b2a368ba7726e1260cbc32d590a591ca940141da88b69fe306b4f21d7857"
+hash = "9666843af042abf2f9a6128093416981abf42fc0a0ed539889323fb99aa47ef3"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/minecraft/loot_table/chests/abandoned_mineshaft.json"
-hash = "c9f9825e30de85ec79db657207d2b27d49558d5d89d4d4022b7e151cd9d35e40"
+hash = "6de7c578669735749132df2259903f2ccf5299d444a22332a48fec20002416a0"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/minecraft/loot_table/chests/ancient_city.json"
-hash = "aeeeb530da7ca59364c07df6b92ab5732988dd340437d3877d9ec62efab003c7"
+hash = "40d6816bcdc229d43eeec8b1c225ac151be30553bebd9e69f7a71fffc2eba3d4"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/minecraft/loot_table/chests/end_city_treasure.json"
-hash = "9e8f28751f888e1f848a8615c624a618134c54e4c7497a9b6d5093edf26f0884"
+hash = "f7b251633990c0fb8743024833a1f92c6b4845fcb69e68075d90916fb6d6a78c"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/minecraft/loot_table/chests/pillager_outpost.json"
-hash = "ad3ec975beba7e8ed99ff055b5658cc2db0d369a778aec947921d89ed6f1b8c7"
+hash = "107a67ee4c6621e4c7109cce77b2f7d88d92563abc741f5161df783da3ba7377"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/minecraft/loot_table/chests/simple_dungeon.json"
-hash = "00c0b9eb9567b3bd0d1aaa4071be7ecac64cc2d4541faf30dcf01612fa776c7a"
+hash = "6c0e7f4a16a42445173f8d70ecfead6433202a1800dae84907ba9aa56f03292c"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/minecraft/tags/function/load.json"
-hash = "33a07acfc8705de3c937533a97b874b1e8558fd723bd165bceff2fc2b9c8259b"
+hash = "13585b4e9b46b1ac0fc4593190cdf99e48cdeac196c1a650313ee4c4982ab67f"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/data/minecraft/tags/function/tick.json"
-hash = "2736a48d5609646499d071390ecf140376569a4587b4f78ee0072491b171d5a3"
+hash = "48c29130ab7436f825ca270c2eb69500435f8fc829b0ab58eb8fd1c774fee644"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/pack.mcmeta"
-hash = "d9c6e97ee849666541bfca4cb66932a728828247fd16410e9dbe6e906cb1dda4"
+hash = "d636ee788104e9b4c4ef541641fe0c71d95c8debdbad8850efa8005e741a553c"
 
 [[files]]
 file = "config/paxi/datapacks/LibrariansBalance/pack.png"
@@ -910,12 +910,12 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "39006f3084611fcf9ab8536d0ade5c9af70cd6c8eeac7fde2fb5ea591fe62130"
+hash = "ce6d1ea01ad434f0ccf3fd3eebc93cc40788dcd77b4d585a98f3ea9380e0603a"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "b185ad5c19f8029d3a623e6ca4d9986f716884f182168bc63afd76f52f5e31af"
+hash = "015053563a1d8ef3334560cd27f8e832935a26a96f151f059f814092b8db50a2"
 metafile = true
 
 [[files]]
@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
-hash = "60fc342753cadaa53e6b64a35a0cc47351d1a7caeb0f697510a3737bbcb347eb"
+hash = "7f1247830bf5c9986b549ed49dd089fcb629e147ec4a2ba8c4cfd99d9e452c7b"
 metafile = true
 
 [[files]]
@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "7a03f41a57e48b74f1171e480df2dc14f61243dee63ada64430defc681246eba"
+hash = "5d159b26ec6a404b925f40e2a50556ecebd0a7be0231c965d6c15d985092da8f"
 metafile = true
 
 [[files]]
@@ -976,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/boat-break-fix.pw.toml"
 hash = "9a6877eb85be1290a0eb73fb7ce74993de3434ca7cbb81a23e041c4598677731"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "77c88fc2f3c4d3a17c329e83ac40ea091410fa1f0b5ba5d812beb8e9c30e26cb"
 metafile = true
 
 [[files]]
@@ -1059,11 +1064,6 @@ hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "c5621e31fba88ddd4eddfd51f10fa69b7de3f654aaa4791772ce778d034610d9"
-metafile = true
-
-[[files]]
 file = "mods/defaultoptions.pw.toml"
 hash = "2317ff0ff51a88daee27faeb26ce0fd98de831f9832c31cd20227eaad5a1265c"
 metafile = true
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/energized-power.pw.toml"
-hash = "a8ac22a0953f4715d58ef0de974436416b7cee9b04dfb05135e06d5df3466af9"
+hash = "403d76c86cd5a7b1a41e563a7960561e1df6acbb5aa4b1f6b088dbe0b868bd45"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "c91e94326e8fe395b4d036213d3e151b70c594295a9c1c0126723bf59ece03d4"
+hash = "7439b67550c331179b07dd6489554c7823aa95d4ecf65228dfee34aef3cafced"
 metafile = true
 
 [[files]]
@@ -1155,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "ba9ef97f3684ea70f21d1e89af3a0140e3b3ed64afbdb8e51a965ef0a8cc01da"
+hash = "d1f2e11d7f6e1749f57e90bf8059d834f78500ca4aa98a3bc93826fd3e1bcc12"
 metafile = true
 
 [[files]]
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2bda48a2822dbce02e5f80800803b9a0891024a4a903c6d45016f0b7294000ee"
+hash = "c691bc0b356a1eaa63b21373e204656ddf730be091b9dcbe1874df2e0d8a34cb"
 metafile = true
 
 [[files]]
@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "d3957c2b27d1090b5a1e0faf3bd863e79d87c145bd3c55dcdc532aa2ed77ffde"
+hash = "edb26988f45156fa58d0071e5f4dea51bdc3103d1d242b4a1c98f9dd0198dc71"
 metafile = true
 
 [[files]]
@@ -1280,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "41ff57d69548f6dab8a6131bdaaf21a5f9e8089c453da7106e00fa770f548276"
+hash = "3cd9df7b685f51045031ad3efb01a8d589b4935e6e810da5d905dd38522cded2"
 metafile = true
 
 [[files]]
@@ -1375,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "994df1a539911f758d2d94189bc75221da1121b501cc358e3eb197c0ad71f820"
+hash = "1a2c6cc16ca2d8b86f27c6dc85e71caf7b6306ac16b0cf373d4c790abfeeae60"
 metafile = true
 
 [[files]]
@@ -1510,7 +1510,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extras.pw.toml"
-hash = "87a4e3945124cf90eb0a436713a01777c6b199312570903803c0537c51dbebc8"
+hash = "0621d0812cf3896b8e2f06679ee36bf4cd10eaae5d0dcff4ce5124758e27a39e"
 metafile = true
 
 [[files]]
@@ -1530,12 +1530,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "24ca44f204ce1904fa79e0fab79c101831716b3197a726f71abf6e5d3e621f80"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "4a9dd537ab25d91979661cc283f8dfe5cb782a4a8c277ca8cf9e6043f1115f9c"
+hash = "94ed1433ffc8de1193ed12b99f7d432353ed0d1e7e216b7843a441cb6ccac8e6"
 metafile = true
 
 [[files]]
@@ -1571,6 +1571,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "0cd7833666e96f4bcee0e5557783437f2284cd917ce62bdf5fb8780ee7e09073"
+metafile = true
+
+[[files]]
+file = "mods/too-cheap.pw.toml"
+hash = "32dc29de6de66b869cfe98dd6e8ad0e8835bc9d7f046c1c8535d64841147bca9"
 metafile = true
 
 [[files]]
