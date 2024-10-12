@@ -1,6 +1,7 @@
 *.zip
 *.mrpack
 *.tar.gz
+someaddons-permission.jpg
 server
 install
 packwiz-installer.jar
