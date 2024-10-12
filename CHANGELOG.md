@@ -50,8 +50,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Added Mods
 
 - DefaultOptions
+- Fancymenu
+- LMD
+- Mouse Tweaks
+- Ok Boomer
+- Open Parties and Claims
+- Paladins and Priests
+- Polymer
+- Runes
+- Rules4Worlds
+- Toms Simple Storage
+- Travelers Backpacks
 - WarpUtils
 - WearThat
+- Wizards
 - Rules4Worlds
 - Jade (it got removed somehow)
 
